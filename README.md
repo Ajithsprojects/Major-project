@@ -16,3 +16,10 @@ Random Forest and Naive bayes. Accuracy of the model, using different machine le
 algorithms is depicted. Among those different machine learning algorithms used, the model
 which gives best accuracy is chosen as the best machine learning algorithm for detecting
 thyroid disease.
+
+# INCLUDES
+- PPT
+- REPORT
+- CODE
+- RESEARCH PAPER
+- INRODUCTORY VIDEO
